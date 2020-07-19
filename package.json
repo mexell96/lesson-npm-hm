@@ -1,0 +1,22 @@
+{
+  "name": "lesson-npm-hm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mexell96/lesson-npm-hm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mexell96/lesson-npm-hm/issues"
+  },
+  "homepage": "https://github.com/mexell96/lesson-npm-hm#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
